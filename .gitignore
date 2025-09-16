@@ -1,0 +1,48 @@
+# Arduino Build Directory
+build/
+
+# Visual Studio Code settings
+.vscode/
+*.code-workspace
+
+# Build artifacts
+*.hex
+*.elf
+*.bin
+
+# Arduino IDE generated files
+**/debug.cfg
+**/debug.svd
+**/debug.gdb
+
+# Compiled binaries
+*.o
+*.d
+*.eep
+*.obj
+*.lst
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.swp
+*~
+
+# Logs
+*.log
+
+# Dependencies
+libraries/
+
+# Hardware specific backup files
+*.bak
+
+# Local configuration files
+*.local
+
+# Cache files
+__pycache__/
+*.pyc
