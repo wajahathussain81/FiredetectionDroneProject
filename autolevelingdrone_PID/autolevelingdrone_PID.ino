@@ -1,5 +1,4 @@
 /**************************************************************
-   ESP32 Quadcopter Example with iBus Failsafe + MPU6050 + PID
    ------------------------------------------------------------
    1) Reads iBus (FS-iA10B) for roll/pitch/yaw/throttle/armSwitch
    2) Reads MPU6050 via I2C for orientation
